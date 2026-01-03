@@ -1,4 +1,6 @@
-<img width="541" height="337" alt="image" src="https://github.com/user-attachments/assets/27ad0c30-abfe-470b-8d3b-b13fe9806c1d" />
+<img width="630" height="210" alt="image" src="https://github.com/user-attachments/assets/cfc53dc5-c6e4-4647-a722-0f17f1f95f19" />
+
+
 # PCB Business Card
 designed a fully functional business card made on a PCB that’s more than just a card—it’s tech! It has a compact circuit with LEDs, maybe a small display or NFC, showing my contact info in a futuristic way. The card is sleek, durable, and eye-catching, merging hardware design with personal branding. Perfect for tech enthusiasts who want to leave an unforgettable impression.
 
